@@ -1,5 +1,4 @@
 # Things to ignore in repo
-.editorconfig
 
 # General
 .DS_Store
