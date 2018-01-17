@@ -1,5 +1,6 @@
 # Things to ignore in repo
 node_modules/*
+yarn.lock
 
 # General
 .DS_Store
