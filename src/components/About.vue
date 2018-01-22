@@ -1,7 +1,7 @@
 <template>
-  <section class="index" id="index">
+  <section class="about" id="about">
     <div class="hero">
-      <h1 class="hero__headline">Welcome</h1>
+      <h1 class="hero__headline">Test</h1>
       <h2 class="hero__subhead">to shakn not stirrd, a creative place to showcase paintings, photography &amp;&nbsp;shirts.</h2>
     </div> <!--/.hero-->
   </section> <!--/.index-->
@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: 'Home'
+  name: 'About'
 }
 </script> <!--/script-->
 
@@ -17,7 +17,7 @@ export default {
 <style lang="scss" scoped>
   $color-white: #ffffff;
 
-  .index {
+  .about {
     background-image: url('../assets/img/welcome-background.jpg');
     background-position: top center;
     background-repeat: no-repeat;
