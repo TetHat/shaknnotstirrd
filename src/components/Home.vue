@@ -23,7 +23,7 @@ export default {
     background-repeat: no-repeat;
     background-size: cover;
     color: $color-white;
-    height: calc(100vh - 100px);
+    height: calc(100vh - 80px);
     position: relative;
     text-align: center;
     width: 100vw;
